@@ -58,8 +58,10 @@ Puede indicar a GitHub que omitan (o escape) formato Markdown mediante \ antes d
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 ### Imagen subida desde PC
-<img width="330" height="773" alt="IMG_20250201_164636893_HDR-01" src="https://github.com/user-attachments/assets/c3dbd83b-955c-444a-9e3c-31f5acc0e77b" />
+<img width="330" height="473" alt="IMG_20250201_164636893_HDR-01" src="https://github.com/user-attachments/assets/c3dbd83b-955c-444a-9e3c-31f5acc0e77b" />
 
+Archivo subido arrastrando:
+[Abrir Gabriel_Pacce_CV_ES_FINAL.pdf](https://github.com/user-attachments/files/28677265/Gabriel_Pacce_CV_ES_FINAL.pdf)
 
 
 
